@@ -9,6 +9,7 @@ public class WhatToDo : MonoBehaviour
     void Start()
     {
         Debug.Log("创建项目");
+         Debug.Log("本地不同路径测试");
     }
 
     // Update is called once per frame
